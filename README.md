@@ -1,6 +1,24 @@
----
-owner-repo: jesseduffield/lazynpm
-desc:   terminal UI for npm 
----
-
 # lazynpm
+
+terminal UI for npm
+
+- **Upstream**: <https://github.com/jesseduffield/lazynpm>
+- **Homepage**: <>
+- **Latest release**: `v0.1.4` (2020-04-18)
+- **Last commit**: 2023-03-02
+- **License**: MIT
+- **Stars**: 860 · **Forks**: 40 · **Open issues**: 16 · **Contributors**: 2
+
+## Installation
+
+```sh
+x install lazynpm
+```
+
+See <https://x-cmd.com/install/lazynpm> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:06:21Z._
