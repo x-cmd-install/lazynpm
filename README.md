@@ -22,11 +22,26 @@ x install lazynpm
 - **Latest**: `v0.1.4` (2020-04-18)
 - **Last commit**: 2023-03-02
 - **Assets in release**: 11
-- **Published**: 2020-04-18T02:04:00Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/checksums.txt) | 1006 B | `other` |
+| [lazynpm_0.1.4_Darwin_32-bit.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Darwin_32-bit.tar.gz) | 4.1 MiB | `native/darwin/x64` |
+| [lazynpm_0.1.4_Darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Darwin_x86_64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [lazynpm_0.1.4_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_32-bit.tar.gz) | 4.0 MiB | `native/unknown` |
+| [lazynpm_0.1.4_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [lazynpm_0.1.4_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_armv6.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [lazynpm_0.1.4_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_x86_64.tar.gz) | 4.1 MiB | `native/linux/x64` |
+| [lazynpm_0.1.4_Linux_32-bit.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_32-bit.tar.gz) | 4.0 MiB | `native/unknown` |
+| [lazynpm_0.1.4_Linux_arm64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [lazynpm_0.1.4_Linux_armv6.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_armv6.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [lazynpm_0.1.4_Linux_x86_64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_x86_64.tar.gz) | 4.1 MiB | `native/linux/x64` |
 
 ## Popularity
 
-- **Stars**: 860 · **Forks**: 40 · **Open issues**: 16 · **Contributors**: 2
+- **Stars**: 861 · **Forks**: 40 · **Open issues**: 16 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -57,8 +72,8 @@ Total: **219,045** lines of code across **723** files in the top 5 languages.
 Install metadata for lazynpm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazynpm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/lazynpm.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lazynpm.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:26:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:26Z._

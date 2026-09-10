@@ -4,7 +4,7 @@
 
 terminal UI for npm
 
-![lazynpm](https://repo.x-cmd.io/lazynpm.svg)
+![lazynpm](https://repo.x-cmd.io/lazynpm.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,26 @@ x install lazynpm
 - **最新版本**: `v0.1.4` (2020-04-18)
 - **最近提交**: 2023-03-02
 - **Release 含资产**: 11 个
-- **发布时间**: 2020-04-18T02:04:00Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/checksums.txt) | 1006 B | `other` |
+| [lazynpm_0.1.4_Darwin_32-bit.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Darwin_32-bit.tar.gz) | 4.1 MiB | `native/darwin/x64` |
+| [lazynpm_0.1.4_Darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Darwin_x86_64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [lazynpm_0.1.4_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_32-bit.tar.gz) | 4.0 MiB | `native/unknown` |
+| [lazynpm_0.1.4_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [lazynpm_0.1.4_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_armv6.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [lazynpm_0.1.4_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_freebsd_x86_64.tar.gz) | 4.1 MiB | `native/linux/x64` |
+| [lazynpm_0.1.4_Linux_32-bit.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_32-bit.tar.gz) | 4.0 MiB | `native/unknown` |
+| [lazynpm_0.1.4_Linux_arm64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [lazynpm_0.1.4_Linux_armv6.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_armv6.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [lazynpm_0.1.4_Linux_x86_64.tar.gz](https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_x86_64.tar.gz) | 4.1 MiB | `native/linux/x64` |
 
 ## 流行度
 
-- **Star**: 860 · **Fork**: 40 · **开放 issue**: 16 · **贡献者**: 2
+- **Star**: 861 · **Fork**: 40 · **开放 issue**: 16 · **贡献者**: 2
 
 ## 累计统计
 
@@ -61,4 +76,4 @@ lazynpm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:26:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:26Z._
