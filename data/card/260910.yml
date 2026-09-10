@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.4"
   latestRelease: "v0.1.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:26:25Z
+  collectedAt: 2026-09-10T16:49:07Z
 timeline:
   created: 2020-04-05
   lastCommit: 2023-03-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2020-04-18
   lastPrerelease: 
 popularity:
-  star: 860
+  star: 861
   watcher: 8
   fork: 40
   release: 2
@@ -85,7 +85,7 @@ total:
   commit: 93
 ---
 path: /home/runner/.x-repo/github.com/jesseduffield/lazynpm
-collectedAt: 2026-09-10T05:26:27Z
+collectedAt: 2026-09-10T16:49:10Z
 loc:
   Go:
     code: 214797
