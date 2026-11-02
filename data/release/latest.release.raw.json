@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1006,
       "digest": null,
-      "download_count": 145,
+      "download_count": 152,
       "created_at": "2020-04-18T02:04:00Z",
       "updated_at": "2020-04-18T02:04:01Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4318759,
       "digest": null,
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2020-04-18T02:04:01Z",
       "updated_at": "2020-04-18T02:04:08Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Darwin_32-bit.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4491439,
       "digest": null,
-      "download_count": 1649,
+      "download_count": 1650,
       "created_at": "2020-04-18T02:04:01Z",
       "updated_at": "2020-04-18T02:04:02Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Darwin_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4154178,
       "digest": null,
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2020-04-18T02:04:00Z",
       "updated_at": "2020-04-18T02:04:01Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_32-bit.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3981852,
       "digest": null,
-      "download_count": 182,
+      "download_count": 183,
       "created_at": "2020-04-18T02:04:01Z",
       "updated_at": "2020-04-18T02:04:01Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4076382,
       "digest": null,
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2020-04-18T02:04:00Z",
       "updated_at": "2020-04-18T02:04:01Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_armv6.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4316344,
       "digest": null,
-      "download_count": 8096,
+      "download_count": 8098,
       "created_at": "2020-04-18T02:04:01Z",
       "updated_at": "2020-04-18T02:04:02Z",
       "browser_download_url": "https://github.com/jesseduffield/lazynpm/releases/download/v0.1.4/lazynpm_0.1.4_Linux_x86_64.tar.gz"
